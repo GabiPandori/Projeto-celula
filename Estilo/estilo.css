@@ -1,0 +1,212 @@
+/*Fundo*/
+body{
+    
+    background-color: rgb(228, 248, 230) /*rgb(252, 245, 245)*/;
+}
+/*Titulo principal*/
+.titulo_principal   {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c7f7ab;
+    padding: 20px;
+    background-color: #7b996a;
+    text-decoration: underline;
+    margin-top: 0; 
+    
+}
+/*Titulo*/
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black/*#7b996a*/;
+    text-align: center;
+    text-decoration: underline;
+
+}
+/*Menu*/
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    background-color:#7b996a;
+}
+.menu a{
+    padding: 5px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+.menu a:hover{
+    background-color: #aed697;
+    color: rgb(55, 82, 4) ;
+    text-decoration: underline;
+    border-radius: 2rem;
+}
+/*Section da estrutura da célula*/
+#section_estrutura_celula p{
+    height: 20px;
+    text-align: center;
+}
+/*Parágrafos*/
+p{
+    font-size: 1.5rem;
+}
+/*Imagens*/
+#celula_vegetal{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_parede_celular{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_estrutura{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_membrana_plasmatica{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_citoplasma{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_cloroplasto{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_vacuolo{
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_complexo_golgi{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_mitocondria{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_nucleo{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_ribossomo{
+    display: block;
+    margin: 0 auto;
+    width:  300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_lisossomos{
+    display: block;
+    margin: 0 auto;
+    width:  300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_reticulo_e{
+    display: block;
+    margin: 0 auto;
+    width:  300px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;min-width: 10%;
+    max-width: 100%;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_peroxissomos{
+    display: block;
+    margin: 0 auto;
+    width: 300px;  
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+#img_maquete{
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    border: 5px solid #7b996a ;
+    border-radius: 20px;
+    margin-top: 10px;
+    min-width: 10%;
+    max-width: 100%;
+}
+/*Tabela*/
+#tabela{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
