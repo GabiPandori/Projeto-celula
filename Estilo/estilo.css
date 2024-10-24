@@ -197,7 +197,7 @@ p{
 #img_maquete{
     display: block;
     margin: 0 auto;
-    width: 450px;
+    /*width: 450px;*/
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
