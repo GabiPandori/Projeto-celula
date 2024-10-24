@@ -60,7 +60,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_parede_celular{
     display: block;
@@ -69,7 +69,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_estrutura{
     display: block;
@@ -78,7 +78,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_membrana_plasmatica{
     display: block;
@@ -87,7 +87,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_citoplasma{
     display: block;
@@ -97,7 +97,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_cloroplasto{
     display: block;
@@ -107,7 +107,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_vacuolo{
     display: block;
@@ -116,17 +116,17 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_complexo_golgi{
     display: block;
     margin: 0 auto;
 
-    border: 5px solid #7b996a ;
+    border: 5px solid #7696a ;
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_mitocondria{
     display: block;
@@ -136,7 +136,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_nucleo{
     display: block;
@@ -146,7 +146,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_ribossomo{
     display: block;
@@ -156,7 +156,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_lisossomos{
     display: block;
@@ -166,7 +166,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_reticulo_e{
     display: block;
@@ -177,7 +177,7 @@ p{
     margin-top: 10px;min-width: 10%;
     max-width: 100%;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_peroxissomos{
     display: block;
@@ -186,7 +186,7 @@ p{
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 60%;
 }
 #img_maquete{
     display: block;
