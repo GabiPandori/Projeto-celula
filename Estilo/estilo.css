@@ -56,7 +56,6 @@ p{
 #celula_vegetal{
     display: block;
     margin: 0 auto;
-    width: 300px;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -66,7 +65,6 @@ p{
 #img_parede_celular{
     display: block;
     margin: 0 auto;
-    width: 300px;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -76,7 +74,6 @@ p{
 #img_estrutura{
     display: block;
     margin: 0 auto;
-    width: 300px;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -86,7 +83,6 @@ p{
 #img_membrana_plasmatica{
     display: block;
     margin: 0 auto;
-    width: 300px;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -96,7 +92,7 @@ p{
 #img_citoplasma{
     display: block;
     margin: 0 auto;
-    width: 400px;
+
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -106,7 +102,7 @@ p{
 #img_cloroplasto{
     display: block;
     margin: 0 auto;
-    width: 350px;
+ 
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -116,7 +112,6 @@ p{
 #img_vacuolo{
     display: block;
     margin: 0 auto;
-    width: 450px;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -126,7 +121,7 @@ p{
 #img_complexo_golgi{
     display: block;
     margin: 0 auto;
-    width: 300px;
+
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -136,7 +131,7 @@ p{
 #img_mitocondria{
     display: block;
     margin: 0 auto;
-    width: 300px;
+  
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -146,7 +141,7 @@ p{
 #img_nucleo{
     display: block;
     margin: 0 auto;
-    width: 300px;
+
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -156,7 +151,7 @@ p{
 #img_ribossomo{
     display: block;
     margin: 0 auto;
-    width:  300px;
+ 
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -166,7 +161,7 @@ p{
 #img_lisossomos{
     display: block;
     margin: 0 auto;
-    width:  300px;
+ 
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -176,7 +171,7 @@ p{
 #img_reticulo_e{
     display: block;
     margin: 0 auto;
-    width:  300px;
+  
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;min-width: 10%;
@@ -187,7 +182,6 @@ p{
 #img_peroxissomos{
     display: block;
     margin: 0 auto;
-    width: 300px;  
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
@@ -197,12 +191,11 @@ p{
 #img_maquete{
     display: block;
     margin: 0 auto;
-    /*width: 450px;*/
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 100%;
+    max-width: 50%;
 }
 /*Tabela*/
 #tabela{
