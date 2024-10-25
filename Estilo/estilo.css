@@ -170,14 +170,14 @@ p{
     min-width: 10%;
     max-width: 60%;
 }
-#img_peroxissomos{
+#img_glioxissomos{
     display: block;
     margin: 0 auto;
     border: 5px solid #7b996a ;
     border-radius: 20px;
     margin-top: 10px;
     min-width: 10%;
-    max-width: 60%;
+    max-width: 7svb%;
 }
 #img_maquete{
     display: block;
